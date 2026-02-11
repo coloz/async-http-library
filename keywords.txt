@@ -1,0 +1,40 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AsyncHTTP	KEYWORD1
+AsyncHTTPRequest	KEYWORD1
+AsyncHTTPResponse	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+get	KEYWORD2
+post	KEYWORD2
+put	KEYWORD2
+patch	KEYWORD2
+del	KEYWORD2
+update	KEYWORD2
+setHeader	KEYWORD2
+setTimeout	KEYWORD2
+onResponse	KEYWORD2
+onError	KEYWORD2
+statusCode	KEYWORD2
+body	KEYWORD2
+header	KEYWORD2
+isSuccess	KEYWORD2
+pending	KEYWORD2
+abort	KEYWORD2
+abortAll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+HTTP_GET	LITERAL1
+HTTP_POST	LITERAL1
+HTTP_PUT	LITERAL1
+HTTP_PATCH	LITERAL1
+HTTP_DELETE	LITERAL1
